@@ -1,2 +1,2 @@
 # Hyperstream Admin
-The admin pnael of the Hyperstream application.
+The admin panel of the Hyperstream application.
